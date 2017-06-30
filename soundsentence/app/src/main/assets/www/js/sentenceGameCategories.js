@@ -367,7 +367,7 @@ var niveles_oraciones_semantica	 	= [ //Niveles
         'image': 'images/La mujer lava los platos.jpg'
       }
     ],
-    [ //Sub-nivel
+    /*[ //Sub-nivel
       {
         'text': 'El hombre lleva un bolso',
         'type': 'ordenCanonico',
@@ -387,7 +387,7 @@ var niveles_oraciones_semantica	 	= [ //Niveles
       {
         'image': 'images/La chica lleva una valija.jpg'
       }
-    ],
+    ]*/,
     [ //Sub-nivel
       {
         'text': 'Una canción escucha el nene',
@@ -411,7 +411,7 @@ var niveles_oraciones_semantica	 	= [ //Niveles
     ],
     [ //Sub-nivel
       {
-        'text': 'Una canción canta el nene',
+        'text': 'Una canción canta la nena',
         'type': 'ordenNoCanonico',
         'sound': '/android_asset/www/audio/Oraciones2/8.mp3',
         'correct': 1, 
@@ -857,7 +857,7 @@ var niveles_oraciones_tematica 	= [ //Niveles
     ],
     [ //Sub-nivel
       {
-        'text': 'La doctora le controla la fiebre al nene',
+        'text': 'La doctora le toma la fiebre al nene',
         'type': 'ordenCanonico',
         'sound': '/android_asset/www/audio/Oraciones3/5.mp3',
         'correct': 1, 
@@ -1151,7 +1151,7 @@ var niveles_oraciones_tematica 	= [ //Niveles
     ],
     [ //Sub-nivel
       {
-        'text': 'A la comida la cocinera le agrega pimienta',
+        'text': 'A la comida la mujer le pone pimienta',
         'type': 'ordenNoCanonico',
         'sound': '/android_asset/www/audio/Oraciones3/19.mp3',
         'correct': 1, 
